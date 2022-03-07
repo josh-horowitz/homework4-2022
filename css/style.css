@@ -110,10 +110,6 @@ header {
         justify-content: space-between;
     }
 
-    .nav_item{
-        margin: auto;
-    }
-
     .pricing{
         align-items: flex-end;
         flex-wrap: nowrap;
